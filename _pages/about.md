@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Site under construction
-======
+
 Lorem Ipsum 
